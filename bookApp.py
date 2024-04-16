@@ -209,7 +209,6 @@ def generate_map(address_data):
     # Convert the map object to HTML
     map_html = map_obj.get_root().render()
     return map_html
-
 # Endpoint to retrieve address count and data showing how many addresses are already stored in DB
 @app.get("/db", response_class=HTMLResponse)
 def read_address_database():
