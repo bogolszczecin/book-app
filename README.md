@@ -19,7 +19,9 @@ Run the app bookApp in terminal opened inside of project folder:
 uvicorn bookApp:app --reload
 ```
 After running the app, open below address on your browser:
-[http://127.0.0.1:8000/docs]
+[http://127.0.0.1:8000/docs] - if running code on desktop
+[https://humble-broccoli-5w9w69rv5v5cpxjg.github.dev/docs] if using github codespace 
+originally code from console redirect to port 8000, we need to go to docs directory from that port, by adding docs in the end if using link from console
 
 While you open the address you should see main site of fastAPI swagger as:
 ![image](https://github.com/bogolszczecin/book-app/assets/133772931/c0645371-2e42-4e2d-83ae-8ad1c1cef079)
