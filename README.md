@@ -1,7 +1,13 @@
 # book-app
 Address book app based on fastAPI prepared for Solutions30 test.
+#Open terminal in project folder to run commands
 
-# Installing dependencies:
+# Activate virtual enivrement for app
+```bash
+source venv/bin/activate
+``` 
+
+# Installing dependencies (optional step if you are using code on desktop):
 ```bash
 pip install -r requirements.txt
 ``` 
