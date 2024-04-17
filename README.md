@@ -1,5 +1,8 @@
 # book-app
 Address book app based on fastAPI prepared for Solutions30 test.
+#recommended code review is trough github codespace which can be opened on project main directory in github and then opening 'Run book app easy way' codespace
+![image](https://github.com/bogolszczecin/book-app/assets/133772931/81e012b4-4746-459c-a597-9dc1f1080d28)
+
 #Open terminal in project folder to run commands
 
 # Activate virtual enivrement for app
